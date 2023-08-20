@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PastEquation922
-- 👀 I’m interested in Discord bot making
+- 👀 I’m interested in web development
 
 - 📫 How to reach me https://dsc.gg/pastsworld
 
